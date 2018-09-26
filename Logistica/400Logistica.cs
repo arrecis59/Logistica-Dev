@@ -31,5 +31,34 @@ namespace Logistica
         {
 
         }
+
+        private void vehiculosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Vehiculos.Vehiculo vehiculo = new Vehiculos.Vehiculo();
+            vehiculo.Show();
+        }
+
+        private void ordenDeTransporteToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            OrdenTransporte orden = new OrdenTransporte();
+            orden.Show();
+        }
+
+        private void mantenimientoDeVehiculosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void mantenimientoDeMaquinariaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Maquinaria.MantenimientoMaquinaria maquinaria = new Maquinaria.MantenimientoMaquinaria();
+            maquinaria.Show();           
+        }
+
+        private void mantenimientoDeProductosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Producto.MantenimientoProducto producto = new Producto.MantenimientoProducto();
+            producto.Show();
+        }
     }
 }

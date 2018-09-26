@@ -1,1 +1,14 @@
 c:\users\valery\documents\visual studio 2015\Projects\Logistica\Logistica\bin\Debug\Logistica.exe.config
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\bin\Debug\Logistica.exe.config
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\bin\Debug\Logistica.exe
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\bin\Debug\Logistica.pdb
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.csprojResolveAssemblyReference.cache
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.Form1.resources
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.Maquinaria.MantenimientoMaquinaria.resources
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.OrdenTransporte.resources
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.Producto.MantenimientoProducto.resources
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.Properties.Resources.resources
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.Vehiculos.Vehiculo.resources
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.csproj.GenerateResource.Cache
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.exe
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.pdb
