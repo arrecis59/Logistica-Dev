@@ -16,5 +16,20 @@ namespace Logistica.Maquinaria
         {
             InitializeComponent();
         }
+
+        private void MantenimientoMaquinaria_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnConsultar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnIngresar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -46,7 +46,8 @@ namespace Logistica
 
         private void mantenimientoDeVehiculosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+            Vehiculos._409MantenimientoVehiculo vehiculo = new Vehiculos._409MantenimientoVehiculo();
+            vehiculo.Show();
         }
 
         private void mantenimientoDeMaquinariaToolStripMenuItem_Click(object sender, EventArgs e)
