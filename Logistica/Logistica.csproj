@@ -70,11 +70,11 @@
     <Compile Include="Orden\407OrdenTransporte.Designer.cs">
       <DependentUpon>407OrdenTransporte.cs</DependentUpon>
     </Compile>
-    <Compile Include="Producto\405MantenimientoProducto.cs">
+    <Compile Include="Producto\40BuscarProducto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Producto\405MantenimientoProducto.Designer.cs">
-      <DependentUpon>405MantenimientoProducto.cs</DependentUpon>
+    <Compile Include="Producto\40BuscarProducto.Designer.cs">
+      <DependentUpon>40BuscarProducto.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -102,8 +102,8 @@
     <EmbeddedResource Include="Orden\407OrdenTransporte.resx">
       <DependentUpon>407OrdenTransporte.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Producto\405MantenimientoProducto.resx">
-      <DependentUpon>405MantenimientoProducto.cs</DependentUpon>
+    <EmbeddedResource Include="Producto\40BuscarProducto.resx">
+      <DependentUpon>40BuscarProducto.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
