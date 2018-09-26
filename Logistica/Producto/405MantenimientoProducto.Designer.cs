@@ -296,6 +296,7 @@
             this.Controls.Add(this.btnIngresar);
             this.Name = "MantenimientoProducto";
             this.Text = "MantenimientoProducto";
+            this.Load += new System.EventHandler(this.MantenimientoProducto_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgv_Producto)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

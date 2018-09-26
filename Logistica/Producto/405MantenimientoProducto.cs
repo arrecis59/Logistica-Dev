@@ -16,5 +16,10 @@ namespace Logistica.Producto
         {
             InitializeComponent();
         }
+
+        private void MantenimientoProducto_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

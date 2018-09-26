@@ -44,3 +44,4 @@ C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.Proper
 C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.Vehiculos.Vehiculo.resources
 C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.Vehiculos._409MantenimientoVehiculo.resources
 C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.csproj.GenerateResource.Cache
+C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.Inventarios.Inventario.resources
