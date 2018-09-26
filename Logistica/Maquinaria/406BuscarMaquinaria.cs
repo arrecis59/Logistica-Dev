@@ -29,7 +29,14 @@ namespace Logistica.Maquinaria
 
         private void btnIngresar_Click(object sender, EventArgs e)
         {
+            Maquinaria.AgregarMaquinaria agregar = new Maquinaria.AgregarMaquinaria();
+            agregar.Show();
+        }
 
+        private void btnEditar_Click(object sender, EventArgs e)
+        {
+            Maquinaria.ModificarMaquinaria modificar = new Maquinaria.ModificarMaquinaria();
+            modificar.Show();
         }
     }
 }

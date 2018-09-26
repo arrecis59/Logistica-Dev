@@ -49,3 +49,5 @@ C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistic
 C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.Producto.AgregarProducto.resources
 C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.Producto.ModificarProducto.resources
 C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.Vehiculos._409MantenimientoVehiculo.resources
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.Maquinaria.AgregarMaquinaria.resources
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.Maquinaria.ModificarMaquinaria.resources

@@ -58,11 +58,23 @@
     <Compile Include="Inventarios\Inventario.Designer.cs">
       <DependentUpon>Inventario.cs</DependentUpon>
     </Compile>
-    <Compile Include="Maquinaria\406MantenimientoMaquinaria.cs">
+    <Compile Include="Maquinaria\406BuscarMaquinaria.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Maquinaria\406MantenimientoMaquinaria.Designer.cs">
-      <DependentUpon>406MantenimientoMaquinaria.cs</DependentUpon>
+    <Compile Include="Maquinaria\406BuscarMaquinaria.Designer.cs">
+      <DependentUpon>406BuscarMaquinaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Maquinaria\AgregarMaquinaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maquinaria\AgregarMaquinaria.Designer.cs">
+      <DependentUpon>AgregarMaquinaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Maquinaria\ModificarMaquinaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maquinaria\ModificarMaquinaria.Designer.cs">
+      <DependentUpon>ModificarMaquinaria.cs</DependentUpon>
     </Compile>
     <Compile Include="Orden\407OrdenTransporte.cs">
       <SubType>Form</SubType>
@@ -108,8 +120,14 @@
     <EmbeddedResource Include="Inventarios\Inventario.resx">
       <DependentUpon>Inventario.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Maquinaria\406MantenimientoMaquinaria.resx">
-      <DependentUpon>406MantenimientoMaquinaria.cs</DependentUpon>
+    <EmbeddedResource Include="Maquinaria\406BuscarMaquinaria.resx">
+      <DependentUpon>406BuscarMaquinaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maquinaria\AgregarMaquinaria.resx">
+      <DependentUpon>AgregarMaquinaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maquinaria\ModificarMaquinaria.resx">
+      <DependentUpon>ModificarMaquinaria.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Orden\407OrdenTransporte.resx">
       <DependentUpon>407OrdenTransporte.cs</DependentUpon>
