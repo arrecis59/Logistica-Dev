@@ -10,28 +10,17 @@ using System.Windows.Forms;
 
 namespace Logistica.Producto
 {
-    public partial class MantenimientoProducto : Form
+    public partial class ModificarProducto : Form
     {
-        public MantenimientoProducto()
+        public ModificarProducto()
         {
             InitializeComponent();
-        }
-
-        private void MantenimientoProducto_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void btnIngresar_Click(object sender, EventArgs e)
         {
             Producto.AgregarProducto agregar = new Producto.AgregarProducto();
             agregar.Show();
-        }
-
-        private void btnEditar_Click(object sender, EventArgs e)
-        {
-            Producto.ModificarProducto modificar = new Producto.ModificarProducto();
-            modificar.Show();
         }
     }
 }

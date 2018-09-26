@@ -45,3 +45,7 @@ C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.Vehicu
 C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.Vehiculos._409MantenimientoVehiculo.resources
 C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.csproj.GenerateResource.Cache
 C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.Inventarios.Inventario.resources
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.Inventarios.Inventario.resources
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.Producto.AgregarProducto.resources
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.Producto.ModificarProducto.resources
+C:\Users\Williams Cuesta\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.Vehiculos._409MantenimientoVehiculo.resources
