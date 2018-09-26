@@ -30,3 +30,17 @@ C:\Users\Fredy Flores\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.c
 C:\Users\Fredy Flores\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.csproj.CopyComplete
 C:\Users\Fredy Flores\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.exe
 C:\Users\Fredy Flores\Source\Repos\Logistica-Dev\Logistica\obj\Debug\Logistica.pdb
+C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\bin\Debug\Logistica.exe.config
+C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.exe
+C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.pdb
+C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\bin\Debug\Logistica.exe
+C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\bin\Debug\Logistica.pdb
+C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.csprojResolveAssemblyReference.cache
+C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.Form1.resources
+C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.Maquinaria.MantenimientoMaquinaria.resources
+C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.OrdenTransporte.resources
+C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.Producto.MantenimientoProducto.resources
+C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.Properties.Resources.resources
+C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.Vehiculos.Vehiculo.resources
+C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.Vehiculos._409MantenimientoVehiculo.resources
+C:\Users\Valery\Source\Repos\Logistica-Dev2\Logistica\obj\Debug\Logistica.csproj.GenerateResource.Cache
